@@ -8,6 +8,8 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ddldzbkepyecb7czmozmgx72hu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:gitsantosdev@gmail.com)
+
 ---
 # Status 📊 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SantosDev333&theme=transparent )](https://github.com/anuraghazra/github-readme-stats)
