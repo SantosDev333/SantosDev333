@@ -4,7 +4,7 @@
 * 🌱 I'm currently studying derivative programming languages, but I'm focusing on becoming a Python pro.
 * 🔭 I work as a Python programming instructor and work on independent game development with my team.
 
-* 💬 I'm 18 years old and I live in Brazil. I have a basic/intermediate level of English, I work as a programming instructor in a social project near where I live, which has helped me develop several skills such as communication, creativity, community management and social media. I'm also a person who likes challenges, (I think that's why I chose to be a programmer lol), working to solve problems stopped being a hobby and became a profession, I love my job.
+* 💬 I'm 19 years old and I live in Brazil. I have a basic/intermediate level of English, I work as a programming instructor in a social project near where I live, which has helped me develop several skills such as communication, creativity, community management and social media. I'm also a person who likes challenges, (I think that's why I chose to be a programmer lol), working to solve problems stopped being a hobby and became a profession, I love my job.
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ddldzbkepyecb7czmozmgx72hu&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
